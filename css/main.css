@@ -1169,7 +1169,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #9f0bff;
+  background: #ff2817;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2565,10 +2565,22 @@ ul.breadcrumb li + li:last-child {
     margin: 8px 0 0;
   }
 }
+.content-wrap {
+  opacity: 0.7;
+}
+.sidebar {
+  opacity: 0.7;
+}
+.header-inner {
+  background: rgba(255,255,255,0.7);
+}
+.popup {
+  opacity: 0.7;
+}
 body {
   background: url("/mypic/ironman.jpg");
+  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
   background-position: 50% 50%;
 }
