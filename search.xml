@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Blog</title>
+      <link href="/2022/05/17/Blog/"/>
+      <url>/2022/05/17/Blog/</url>
+      
+        <content type="html"><![CDATA[<h6 id="修改字体："><a href="#修改字体：" class="headerlink" title="修改字体："></a>修改字体：</h6><p><code>Blog</code>-&gt;<code>themes</code>-&gt;<code>next</code>-&gt;<code>source</code>-&gt;<code>css</code>-&gt;<code>variables</code>-&gt;<code>base.styl</code></p><h6 id="post模板："><a href="#post模板：" class="headerlink" title="post模板："></a>post模板：</h6><p><code>Blog</code>-&gt;<code>scaffolds</code>-&gt;<code>post.md</code></p><h6 id="自定义修改："><a href="#自定义修改：" class="headerlink" title="自定义修改："></a>自定义修改：</h6><p><code>Blog</code>-&gt;<code>source</code>-&gt;<code>_data</code>-&gt;<code>styles.styl</code></p><h6 id="控制主题："><a href="#控制主题：" class="headerlink" title="控制主题："></a>控制主题：</h6><p><code>Blog</code>-&gt;<code>themes</code>-&gt;<code>next</code>-&gt;<code>_config.yml</code></p><h6 id="控制Blog："><a href="#控制Blog：" class="headerlink" title="控制Blog："></a>控制Blog：</h6><p><code>Blog</code>-&gt;<code>_config.yml</code></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>diary-22.5.17</title>
+      <link href="/2022/05/17/diary-22.5.17/"/>
+      <url>/2022/05/17/diary-22.5.17/</url>
+      
+        <content type="html"><![CDATA[<h4 id="时隔几天，再写一篇日记"><a href="#时隔几天，再写一篇日记" class="headerlink" title="时隔几天，再写一篇日记"></a>时隔几天，再写一篇日记</h4><p>1.晚上在回餐吃饭，看见了一个女的，超短裤，腿真TM的白，不得不感慨，夏天，真好！</p><p>2.LOL开英雄碎片，开了两个我没有的英雄，有点牛逼。</p><p>3.到货了一件oversize的上衣，就是那种可以直接配裤衩出去的那种，不错不错！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 无聊的一天 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>diary-22.5.14</title>
+      <link href="/2022/05/14/diary-22.5.14/"/>
+      <url>/2022/05/14/diary-22.5.14/</url>
+      
+        <content type="html"><![CDATA[<p>1.终于是修改了blog的背景透明，首先新建文件夹，复制代码，主要是得取消主题config里的一个注释，关于style的。并且把blog的边框改了圆角，换了logo。</p><p>2.进行了大三的体侧，测一千米的时候直接跑一个第一，不是我有多强，只是这一组里摆的比较多。虽然过程很累，但是当我以第一的身份跑到终点时，围观的一个女生说了一句，“这个人好厉害呀”我就知道，我的努力没白费！！！！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 无聊的一天 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>coc2</title>
+      <link href="/2022/05/13/coc2/"/>
+      <url>/2022/05/13/coc2/</url>
+      
+        <content type="html"><![CDATA[<h1 id="oco2的操作"><a href="#oco2的操作" class="headerlink" title="oco2的操作"></a>oco2的操作</h1><ul><li>确定NC文件输入路径，输出路径和相关代码</li><li>通过<code>cd</code>到代码的指定位置，途中用<code>ls</code>查看当前目录文件</li><li>用<code>ls -l</code>查看代码属性并用<code>chmod 777</code>进行修改</li><li>用<code>vim</code>去对代码进行修改<ul><li>英文状态下摁下<code>i</code>进入<code>Insert</code>模式</li><li>用自己的文件路径替换掉原代码中的文件路径</li><li><code>ESC</code>退出<code>Insert</code>模式</li><li><code>: wq</code>保存并退出</li><li><code>: !q</code>不保存退出</li></ul></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> oco2 </tag>
+            
+            <tag> 学习记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>初学Hexo</title>
+      <link href="/2022/05/12/MyFirstBlog/"/>
+      <url>/2022/05/12/MyFirstBlog/</url>
+      
+        <content type="html"><![CDATA[<h1 id="hexo基本指令"><a href="#hexo基本指令" class="headerlink" title="hexo基本指令"></a>hexo基本指令</h1><p><code>hexo g</code> 等价于 <code>hexo generate </code>生成静态网页 </p><p><code>hexo s</code>等价于<code>hexo server</code>  无须重启服务器,直接刷新网页即可生效</p><p><code>hexo d</code> 等价于 <code>hexo deploy</code>  将本地数据部署到远端服务器</p><p><code>hexo clean</code> 清除缓存  </p><p><code>hexo new post  </code>** 新建一篇叫**的文章</p><p><code>hexo init</code> 文件夹名称 初始化XX文件夹名称</p><p><code>npm update hexo -g</code>升级</p><p><code>npm install hexo -g</code>安装</p><p><code>node-v </code>查看node.js版本号</p><p><code>npm -v </code>查看npm版本号</p><p><code>git --version</code> 查看git版本号</p><p><code>hexo -v </code>查看hexo版本号</p><!-- 一般都是先C，g，d -->]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
