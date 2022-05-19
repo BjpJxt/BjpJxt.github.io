@@ -8,7 +8,7 @@
       <link href="/2022/05/19/%E5%8D%9A%E5%AE%A2%E6%96%B0%E6%89%8B%E6%9D%91/"/>
       <url>/2022/05/19/%E5%8D%9A%E5%AE%A2%E6%96%B0%E6%89%8B%E6%9D%91/</url>
       
-        <content type="html"><![CDATA[<h2 id="开启博客生涯中指南针的错误"><a href="#开启博客生涯中指南针的错误" class="headerlink" title="开启博客生涯中指南针的错误"></a>开启博客生涯中指南针的错误</h2><p>[知乎]: <a href="https://zhuanlan.zhihu.com/p/102592286">https://zhuanlan.zhihu.com/p/102592286</a>“从零开始搭建个人博客（超详细）”</p><p>这个博主的教程很详细，不过有一些年代的问题。</p><p>Q1：在第三步<code>绑定GitHub并提交文件</code>中，我们新手选择第一种方式： <code>本地没有 git 仓库</code>,在你输入完你的账号密码并且检查完状态后，需要将本地仓库提交到远程仓库，<code>git push origin master</code>这条指令失效了。</p><p>A1：指令改成<code>git push origin main</code>，就是年代的问题。然后再去验证就好了。</p><p>Q2：在第五步<code>安装node.js和Hexo</code>中，安装完node.js之后，需要配置环境变量，配置完之后的测试环节，按步操作后会报错。</p><p>A2：其实就以管理员身份运行就好。</p><p>Q3：在第七部<code>设置next主题</code>中，下载主题的时候我们都是用指令去下载的但是，经常会出现下不动，下不上，显示报错等问题。</p><p>A3：其实就是网络问题，建议打开你的VPN，然后再去下载就好了。或者你直接去next官网下载，然后再把文件拖到你的<code>heme</code>面去就好了。</p><p>（这些情况其他读者也遇到，而且也在评论区讨论了，评论区其实有更详细的答案）</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="开启博客生涯中指南针的错误"><a href="#开启博客生涯中指南针的错误" class="headerlink" title="开启博客生涯中指南针的错误"></a>开启博客生涯中指南针的错误</h2><p>[知乎]: <a href="https://zhuanlan.zhihu.com/p/102592286">https://zhuanlan.zhihu.com/p/102592286</a>“从零开始搭建个人博客（超详细）”</p><p>这个博主的教程很详细，不过有一些年代的问题。</p><p>Q1：在第三步<code>绑定GitHub并提交文件</code>中，我们新手选择第一种方式： <code>本地没有 git 仓库</code>,在你输入完你的账号密码并且检查完状态后，需要将本地仓库提交到远程仓库，<code>git push origin master</code>这条指令失效了。</p><p>A1：指令改成<code>git push origin main</code>，就是年代的问题。然后再去验证就好了。</p><p>Q2：在第五步<code>安装node.js和Hexo</code>中，安装完node.js之后，需要配置环境变量，配置完之后的测试环节，按步操作后会报错。</p><p>A2：其实就以管理员身份运行就好。</p><p>Q3：在第七部<code>设置next主题</code>中，下载主题的时候我们都是用指令去下载的但是，经常会出现下不动，下不上，显示报错等问题。</p><p>A3：其实就是网络问题，建议打开你的VPN，然后再去下载就好了。或者你直接去next官网下载，然后再把文件拖到你的<code>theme</code>面去就好了。</p><p>（这些情况其他读者也遇到，而且也在评论区讨论了，评论区其实有更详细的答案）</p>]]></content>
       
       
       <categories>
@@ -33,7 +33,7 @@
       <link href="/2022/05/19/daily-22-5-19/"/>
       <url>/2022/05/19/daily-22-5-19/</url>
       
-        <content type="html"><![CDATA[<h1 id="暴打网络喷子"><a href="#暴打网络喷子" class="headerlink" title="暴打网络喷子"></a>暴打网络喷子</h1><p>​我今天打LOL，和朋友双排，我打野，我朋友中，ad，辅助，上单是路人，ad和上单是一起的。然后开局没一会辅助就开始喷ad，俩人就骂起来了，然后到了中期ad的操作确实菜，我也说句ad确实菜。紧接着ad不乐意了，ad说他是补位的，就扬言让我别叫，出去solo，我就欣然答应了。我和ad去的上solo。</p><p>​第一把，他刀妹我剑魔，我直接一级单杀他，各位，剑魔一级什么水平不用我说了吧，然后我就问他有问题么，他说没问题。然后我没B，然后推线进塔，又给他越了，我就问有问题么，就退了。</p><p>​然后小伙子不服气呀，又拉了我一把，我就换了个腕豪，然后他选了个剑姬。我就寻思着，你以为我就会个剑魔？非得选个康特剑魔的来？你这也太想赢了吧。果不其然，一级又被我单杀了。他就说退了。</p><p>​退出来之后，就直接给我删了。说真的，没点本事就在这叫，菜就算了，还不承认，非得自己打自己脸。人可以菜，但是不能嘴硬呀。然后我就去看了看他们战绩，战绩还不错，然后可能就产生错觉了吧，觉得自己很强，太装了吧，反正最后我挺舒坦的。</p><p>​但打完一想，妈的，是辅助一直在喷你，然后你他吗要找我solo，这不纯纯小脑不健全么。最后我想挂一下这人ID，真是又菜又嘴硬。<code>扭曲丛林 偶读不懂的忧伤</code></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="暴打网络喷子"><a href="#暴打网络喷子" class="headerlink" title="暴打网络喷子"></a>暴打网络喷子</h1><p>​我今天打LOL，和朋友双排，我打野，我朋友中，ad，辅助，上单是路人，ad和上单是一起的。然后开局没一会辅助就开始喷ad，俩人就骂起来了，然后到了中期ad的操作确实菜，我也说句ad确实菜。紧接着ad不乐意了，ad说他是补位的，就扬言让我别叫，出去solo，我就欣然答应了。我和ad去的上solo。</p><p>​第一把，他刀妹我剑魔，我直接一级单杀他，各位，剑魔一级什么水平不用我说了吧，然后我就问他有问题么，他说没问题。然后我没B，然后推线进塔，又给他越了，我就问有问题么，就退了。</p><p>​然后小伙子不服气呀，又拉了我一把，我就换了个腕豪，然后他选了个剑姬。我就寻思着，你以为我就会个剑魔？非得选个康特剑魔的来？你这也太想赢了吧。果不其然，一级又被我单杀了。他就说退了。</p><p>​退出来之后，就直接给我删了。说真的，没点本事就在这叫，菜就算了，还不承认，非得自己打自己脸。人可以菜，但是不能嘴硬呀。然后我就去看了看他们战绩，战绩还不错，然后可能就产生错觉了吧，觉得自己很强，太装了吧，反正最后我挺舒坦的。</p><p>​但打完一想，妈的，是辅助一直在喷你，然后你他吗要找我solo，这不纯纯小脑不健全么。最后我想挂一下这人ID，真是又菜又嘴硬。<code>扭曲丛林 偶读不懂的忧伤</code></p>]]></content>
       
       
       <categories>
@@ -58,7 +58,7 @@
       <link href="/2022/05/18/%E9%80%9A%E7%9F%A5-5.18/"/>
       <url>/2022/05/18/%E9%80%9A%E7%9F%A5-5.18/</url>
       
-        <content type="html"><![CDATA[<h3 id="新添评论功能"><a href="#新添评论功能" class="headerlink" title="新添评论功能"></a>新添评论功能</h3><p>​为了迎合各网站，小弟也开通了评论功能，各位可以对小弟写的内容进行评价，本人荣誉等级一直是一级，各位可能喷不过我，文明发炎，谢谢辣！</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="新添评论功能"><a href="#新添评论功能" class="headerlink" title="新添评论功能"></a>新添评论功能</h3><p>​为了迎合各网站，小弟也开通了评论功能，各位可以对小弟写的内容进行评价，本人荣誉等级一直是一级，各位可能喷不过我，文明发炎，谢谢辣！</p>]]></content>
       
       
       
@@ -77,7 +77,7 @@
       <link href="/2022/05/17/Blog/"/>
       <url>/2022/05/17/Blog/</url>
       
-        <content type="html"><![CDATA[<h6 id="修改字体："><a href="#修改字体：" class="headerlink" title="修改字体："></a>修改字体：</h6><p><code>Blog</code>-&gt;<code>themes</code>-&gt;<code>next</code>-&gt;<code>source</code>-&gt;<code>css</code>-&gt;<code>variables</code>-&gt;<code>base.styl</code></p><h6 id="post模板："><a href="#post模板：" class="headerlink" title="post模板："></a>post模板：</h6><p><code>Blog</code>-&gt;<code>scaffolds</code>-&gt;<code>post.md</code></p><h6 id="自定义修改："><a href="#自定义修改：" class="headerlink" title="自定义修改："></a>自定义修改：</h6><p><code>Blog</code>-&gt;<code>source</code>-&gt;<code>_data</code>-&gt;<code>styles.styl</code></p><h6 id="控制主题："><a href="#控制主题：" class="headerlink" title="控制主题："></a>控制主题：</h6><p><code>Blog</code>-&gt;<code>themes</code>-&gt;<code>next</code>-&gt;<code>_config.yml</code></p><h6 id="控制Blog："><a href="#控制Blog：" class="headerlink" title="控制Blog："></a>控制Blog：</h6><p><code>Blog</code>-&gt;<code>_config.yml</code></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h6 id="修改字体："><a href="#修改字体：" class="headerlink" title="修改字体："></a>修改字体：</h6><p><code>Blog</code>-&gt;<code>themes</code>-&gt;<code>next</code>-&gt;<code>source</code>-&gt;<code>css</code>-&gt;<code>variables</code>-&gt;<code>base.styl</code></p><h6 id="post模板："><a href="#post模板：" class="headerlink" title="post模板："></a>post模板：</h6><p><code>Blog</code>-&gt;<code>scaffolds</code>-&gt;<code>post.md</code></p><h6 id="自定义修改："><a href="#自定义修改：" class="headerlink" title="自定义修改："></a>自定义修改：</h6><p><code>Blog</code>-&gt;<code>source</code>-&gt;<code>_data</code>-&gt;<code>styles.styl</code></p><h6 id="控制主题："><a href="#控制主题：" class="headerlink" title="控制主题："></a>控制主题：</h6><p><code>Blog</code>-&gt;<code>themes</code>-&gt;<code>next</code>-&gt;<code>_config.yml</code></p><h6 id="控制Blog："><a href="#控制Blog：" class="headerlink" title="控制Blog："></a>控制Blog：</h6><p><code>Blog</code>-&gt;<code>_config.yml</code></p>]]></content>
       
       
       <categories>
@@ -102,7 +102,7 @@
       <link href="/2022/05/17/diary-22.5.17/"/>
       <url>/2022/05/17/diary-22.5.17/</url>
       
-        <content type="html"><![CDATA[<h4 id="时隔几天，再写一篇日记"><a href="#时隔几天，再写一篇日记" class="headerlink" title="时隔几天，再写一篇日记"></a>时隔几天，再写一篇日记</h4><p>1.晚上在回餐吃饭，看见了一个女的，超短裤，腿真TM的白，不得不感慨，夏天，真好！</p><p>2.LOL开英雄碎片，开了两个我没有的英雄，有点牛逼。</p><p>3.到货了一件oversize的上衣，就是那种可以直接配裤衩出去的那种，不错不错！</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="时隔几天，再写一篇日记"><a href="#时隔几天，再写一篇日记" class="headerlink" title="时隔几天，再写一篇日记"></a>时隔几天，再写一篇日记</h4><p>1.晚上在回餐吃饭，看见了一个女的，超短裤，腿真TM的白，不得不感慨，夏天，真好！</p><p>2.LOL开英雄碎片，开了两个我没有的英雄，有点牛逼。</p><p>3.到货了一件oversize的上衣，就是那种可以直接配裤衩出去的那种，不错不错！</p>]]></content>
       
       
       <categories>
@@ -127,7 +127,7 @@
       <link href="/2022/05/14/diary-22.5.14/"/>
       <url>/2022/05/14/diary-22.5.14/</url>
       
-        <content type="html"><![CDATA[<p>1.终于是修改了blog的背景透明，首先新建文件夹，复制代码，主要是得取消主题config里的一个注释，关于style的。并且把blog的边框改了圆角，换了logo。</p><p>2.进行了大三的体侧，测一千米的时候直接跑一个第一，不是我有多强，只是这一组里摆的比较多。虽然过程很累，但是当我以第一的身份跑到终点时，围观的一个女生说了一句，“这个人好厉害呀”我就知道，我的努力没白费！！！！</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>1.终于是修改了blog的背景透明，首先新建文件夹，复制代码，主要是得取消主题config里的一个注释，关于style的。并且把blog的边框改了圆角，换了logo。</p><p>2.进行了大三的体侧，测一千米的时候直接跑一个第一，不是我有多强，只是这一组里摆的比较多。虽然过程很累，但是当我以第一的身份跑到终点时，围观的一个女生说了一句，“这个人好厉害呀”我就知道，我的努力没白费！！！！</p>]]></content>
       
       
       <categories>
@@ -152,7 +152,7 @@
       <link href="/2022/05/13/coc2/"/>
       <url>/2022/05/13/coc2/</url>
       
-        <content type="html"><![CDATA[<h1 id="oco2的操作"><a href="#oco2的操作" class="headerlink" title="oco2的操作"></a>oco2的操作</h1><ul><li>确定NC文件输入路径，输出路径和相关代码</li><li>通过<code>cd</code>到代码的指定位置，途中用<code>ls</code>查看当前目录文件</li><li>用<code>ls -l</code>查看代码属性并用<code>chmod 777</code>进行修改</li><li>用<code>vim</code>去对代码进行修改<ul><li>英文状态下摁下<code>i</code>进入<code>Insert</code>模式</li><li>用自己的文件路径替换掉原代码中的文件路径</li><li><code>ESC</code>退出<code>Insert</code>模式</li><li><code>: wq</code>保存并退出</li><li><code>: !q</code>不保存退出</li></ul></li></ul>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="oco2的操作"><a href="#oco2的操作" class="headerlink" title="oco2的操作"></a>oco2的操作</h1><ul><li>确定NC文件输入路径，输出路径和相关代码</li><li>通过<code>cd</code>到代码的指定位置，途中用<code>ls</code>查看当前目录文件</li><li>用<code>ls -l</code>查看代码属性并用<code>chmod 777</code>进行修改</li><li>用<code>vim</code>去对代码进行修改<ul><li>英文状态下摁下<code>i</code>进入<code>Insert</code>模式</li><li>用自己的文件路径替换掉原代码中的文件路径</li><li><code>ESC</code>退出<code>Insert</code>模式</li><li><code>: wq</code>保存并退出</li><li><code>: !q</code>不保存退出</li></ul></li></ul>]]></content>
       
       
       
@@ -173,7 +173,7 @@
       <link href="/2022/05/12/MyFirstBlog/"/>
       <url>/2022/05/12/MyFirstBlog/</url>
       
-        <content type="html"><![CDATA[<h1 id="hexo基本指令"><a href="#hexo基本指令" class="headerlink" title="hexo基本指令"></a>hexo基本指令</h1><p><code>hexo g</code> 等价于 <code>hexo generate </code>生成静态网页 </p><p><code>hexo s</code>等价于<code>hexo server</code>  无须重启服务器,直接刷新网页即可生效</p><p><code>hexo d</code> 等价于 <code>hexo deploy</code>  将本地数据部署到远端服务器</p><p><code>hexo clean</code> 清除缓存  </p><p><code>hexo new post  </code>** 新建一篇叫**的文章</p><p><code>hexo init</code> 文件夹名称 初始化XX文件夹名称</p><p><code>npm update hexo -g</code>升级</p><p><code>npm install hexo -g</code>安装</p><p><code>node-v </code>查看node.js版本号</p><p><code>npm -v </code>查看npm版本号</p><p><code>git --version</code> 查看git版本号</p><p><code>hexo -v </code>查看hexo版本号</p><!-- 一般都是先C，g，d -->]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="hexo基本指令"><a href="#hexo基本指令" class="headerlink" title="hexo基本指令"></a>hexo基本指令</h1><p><code>hexo g</code> 等价于 <code>hexo generate </code>生成静态网页 </p><p><code>hexo s</code>等价于<code>hexo server</code>  无须重启服务器,直接刷新网页即可生效</p><p><code>hexo d</code> 等价于 <code>hexo deploy</code>  将本地数据部署到远端服务器</p><p><code>hexo clean</code> 清除缓存  </p><p><code>hexo new post  </code>** 新建一篇叫**的文章</p><p><code>hexo init</code> 文件夹名称 初始化XX文件夹名称</p><p><code>npm update hexo -g</code>升级</p><p><code>npm install hexo -g</code>安装</p><p><code>node-v </code>查看node.js版本号</p><p><code>npm -v </code>查看npm版本号</p><p><code>git --version</code> 查看git版本号</p><p><code>hexo -v </code>查看hexo版本号</p><!-- 一般都是先C，g，d -->]]></content>
       
       
       <categories>
