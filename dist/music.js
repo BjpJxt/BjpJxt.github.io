@@ -1,37 +1,69 @@
 const ap = new APlayer({
     container: document.getElementById('aplayer'),
     fixed: true,
-    autoplay: false,
+    autoplay: true,
     audio: [
-	{
-        name: "平凡之路",
-        artist: '朴树',
-        url: 'http://www.ytmp3.cn/down/59211.mp3',
-        cover: 'http://p1.music.126.net/W_5XiCv3rGS1-J7EXpHSCQ==/18885211718782327.jpg?param=130y130',
-      },
-	  {
-        name: '这些民谣 - 一次听个够',
-        artist: '翁大涵',
-        url: 'http://www.ytmp3.cn/down/60222.mp3',
-        cover: 'http://p2.music.126.net/Wx5GNJEpay2JbfVUJc4Aew==/109951163094853876.jpg?param=130y130',
+      {
+        name: '天后',
+        artist: 'Bjp',
+        url: '/mysong/天后.mp3',  
+        // #歌曲链接
+        cover: '/mypic/jxt.jpg', 
+        //  #图片
       },
       {
-        name: '你的酒馆对我打了烊',
-        artist: '陈雪凝',
-        url: 'http://www.ytmp3.cn/down/59770.mp3',
-        cover: 'http://p1.music.126.net/LiRR__0pJHSivqBHZzbMUw==/109951163816225567.jpg?param=130y130',
-      },
-	  {
-        name: 'Something Just Like This',
-        artist: 'The Chainsmokers',
-        url: 'http://www.ytmp3.cn/down/50463.mp3',
-        cover: 'http://p2.music.126.net/ggnyubDdMxrhpqYvpZbhEQ==/3302932937412681.jpg?param=130y130',
+        name: " 大海",
+        artist: 'Bjp',
+          url: "/mysong/大海.mp3",
+         cover: "/mypic/jxt.jpg"
       },
       {
-        name: 'Good Time',
-        artist: 'Owl City&Carly Rae Jepsen',
-        url: 'http://www.ytmp3.cn/down/34148.mp3',
-        cover: 'http://p1.music.126.net/c5NVKUIAUcyN4BQUDbGnEg==/109951163221157827.jpg?param=130y130',
+        name: " 花海",
+        artist: 'Bjp',
+          url: "/mysong/花海.flac",
+         cover: "/mypic/jxt.jpg"
+      },
+      {
+        name: " 王妃",
+        artist: 'Bjp',
+          url: "/mysong/王妃.flac",
+         cover: "/mypic/jxt.jpg"
+      },
+      {
+        name: "七里香 ",
+        artist: 'Bjp',
+          url: "/mysong/七里香.flac",
+         cover: "/mypic/jxt.jpg"
+      },
+      {
+        name: "晴天 ",
+        artist: 'Bjp',
+          url: "/mysong/晴天.flac",
+         cover: "/mypic/jxt.jpg"
+      },
+      {
+        name: "告白气球 ",
+        artist: 'Bjp',
+          url: "/mysong/告白气球.flac",
+         cover: "/mypic/jxt.jpg"
       }
+     /*  ,{
+        name: " ",
+        artist: 'Bjp',
+          url: "/mysong/",
+         cover: "/mypic/jxt.jpg"
+      }
+      ,{
+        name: " ",
+        artist: 'Bjp',
+          url: "/mysong/",
+         cover: "/mypic/jxt.jpg"
+      }
+      ,{
+        name: " ",
+        artist: 'Bjp',
+          url: "/mysong/",
+         cover: "/mypic/jxt.jpg"
+      } */
     ]
 });

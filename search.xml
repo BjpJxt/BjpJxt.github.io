@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>通知-5.19</title>
+      <link href="/2022/05/19/%E6%96%B0%E6%B7%BB%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/"/>
+      <url>/2022/05/19/%E6%96%B0%E6%B7%BB%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h5 id="新添了音乐播放器功能"><a href="#新添了音乐播放器功能" class="headerlink" title="新添了音乐播放器功能"></a>新添了音乐播放器功能</h5><p>[我觉着最简单的操作]: <a href="https://enfangzhong.github.io/2019/12/08/Hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0APlayer%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E5%8A%9F%E8%83%BD/">https://enfangzhong.github.io/2019/12/08/Hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0APlayer%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E5%8A%9F%E8%83%BD/</a>“添加音乐播放器”</p><p>我只能说这个博主讲的很好。</p><p>我只需要在<code>Blog\themes\next\source\dist\music.js</code>去添加歌曲。</p><p>各位也可以在左下角去切歌，调节音量哦。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> notice </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客新手村</title>
       <link href="/2022/05/19/%E5%8D%9A%E5%AE%A2%E6%96%B0%E6%89%8B%E6%9D%91/"/>
       <url>/2022/05/19/%E5%8D%9A%E5%AE%A2%E6%96%B0%E6%89%8B%E6%9D%91/</url>
