@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>dairy-5.24</title>
+      <link href="/2022/05/24/dairy-22.5.24/"/>
+      <url>/2022/05/24/dairy-22.5.24/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="人生转折"><a href="#人生转折" class="headerlink" title="人生转折"></a>人生转折</h1><p>故事要从5月22号的晚上说起，我正常和我的NT女友视频完睡觉，可是，当我平躺好了，我的脑子里却一直在回想一个问题：你真的要考研么。</p><p>因为考研这个决定，起初并不是我自己要决定的，也只是家里的亲戚们和我的父母一直在强调考研的重要性，讲普通本科去就业有多么的不容易，只有考研才是一个好的出路。他们说的这些，我也都认同，确实一届一届的本科生太多了，如果无法从这群人中脱颖而出，那么就无法赢取白富美，走向人生巅峰。（虽然我的女友就是个白富美）然后这些就让我不知不觉的有了想法，考研是不错的。</p><p>但是，我的脑子，在那个晚上，毫无征兆的，就对我发出了灵魂拷问：你真要的考研么？脑哥你什么意思，我不是说了要考了么，你为哈还要这么问我，这个问题我一直都在思索，久久不能入睡。知道我的脑子，有了他自己的想法：不考了。其实也不怪我，因为我本身也就是被大脑所操控，而大脑作为我身体的最高指挥，我也没办法拒绝，因此，我只能服从我的大脑。</p><p>到了第二天，我回想我和大脑昨晚的讨论，假如说，我的大脑真的想让我考研，那么在那之前，我已经对考研有想法了，只要大脑不来闹事，我就会顺理成章的去考研，但是，我的大脑却和我开了一个紧急会议，突然打断施法，那么这就说明，我的大脑—对我最了解的部分，对我下达了我这一辈子最总要的命令，那就是不要考研了。</p><p>既然不考了，那么我就必须要比普通本科生会的多，所以未来两年我就会努力学习一些除了学业方面的其他技术，以至于我能在我的简历上多写几行。</p><p>那天晚上的决定，可能是我这一辈子最重要的决定了了吧。因为我也不知道我以一个本科身份能不能找到好的工作，但是我觉着，自己的人生，不应该被别人所左右，同样的努力付出，就算不去考研，把这份心放在未来工作上，我觉着也不会差吧。我只是想，被自己所左右一次。希望我不要后悔这次的决定。</p><p>以后的路还远，希望我能挺得过来！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 人生感悟 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> diary </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>通知-5.19</title>
       <link href="/2022/05/19/%E6%96%B0%E6%B7%BB%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/"/>
       <url>/2022/05/19/%E6%96%B0%E6%B7%BB%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h5 id="新添了音乐播放器功能"><a href="#新添了音乐播放器功能" class="headerlink" title="新添了音乐播放器功能"></a>新添了音乐播放器功能</h5><p>[我觉着最简单的操作]: <a href="https://enfangzhong.github.io/2019/12/08/Hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0APlayer%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E5%8A%9F%E8%83%BD/">https://enfangzhong.github.io/2019/12/08/Hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0APlayer%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E5%8A%9F%E8%83%BD/</a>“添加音乐播放器”</p><p>我只能说这个博主讲的很好。</p><p>我只需要在<code>Blog\themes\next\source\dist\music.js</code>去添加歌曲。</p><p>各位也可以在左下角去切歌，调节音量哦。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h5 id="新添了音乐播放器功能"><a href="#新添了音乐播放器功能" class="headerlink" title="新添了音乐播放器功能"></a>新添了音乐播放器功能</h5><p>[我觉着最简单的操作]: <a href="https://enfangzhong.github.io/2019/12/08/Hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0APlayer%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E5%8A%9F%E8%83%BD/">https://enfangzhong.github.io/2019/12/08/Hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%B7%BB%E5%8A%A0APlayer%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E5%8A%9F%E8%83%BD/</a>“添加音乐播放器”</p><p>我只能说这个博主讲的很好。</p><p>我只需要在<code>Blog\themes\next\source\dist\music.js</code>去添加歌曲。</p><p>各位也可以在左下角去切歌，调节音量哦。 </p>]]></content>
       
       
       
@@ -49,8 +74,8 @@
     
     <entry>
       <title>daily-22.5.19</title>
-      <link href="/2022/05/19/daily-22-5-19/"/>
-      <url>/2022/05/19/daily-22-5-19/</url>
+      <link href="/2022/05/19/daily-22.5.19/"/>
+      <url>/2022/05/19/daily-22.5.19/</url>
       
         <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="暴打网络喷子"><a href="#暴打网络喷子" class="headerlink" title="暴打网络喷子"></a>暴打网络喷子</h1><p>​我今天打LOL，和朋友双排，我打野，我朋友中，ad，辅助，上单是路人，ad和上单是一起的。然后开局没一会辅助就开始喷ad，俩人就骂起来了，然后到了中期ad的操作确实菜，我也说句ad确实菜。紧接着ad不乐意了，ad说他是补位的，就扬言让我别叫，出去solo，我就欣然答应了。我和ad去的上solo。</p><p>​第一把，他刀妹我剑魔，我直接一级单杀他，各位，剑魔一级什么水平不用我说了吧，然后我就问他有问题么，他说没问题。然后我没B，然后推线进塔，又给他越了，我就问有问题么，就退了。</p><p>​然后小伙子不服气呀，又拉了我一把，我就换了个腕豪，然后他选了个剑姬。我就寻思着，你以为我就会个剑魔？非得选个康特剑魔的来？你这也太想赢了吧。果不其然，一级又被我单杀了。他就说退了。</p><p>​退出来之后，就直接给我删了。说真的，没点本事就在这叫，菜就算了，还不承认，非得自己打自己脸。人可以菜，但是不能嘴硬呀。然后我就去看了看他们战绩，战绩还不错，然后可能就产生错觉了吧，觉得自己很强，太装了吧，反正最后我挺舒坦的。</p><p>​但打完一想，妈的，是辅助一直在喷你，然后你他吗要找我solo，这不纯纯小脑不健全么。最后我想挂一下这人ID，真是又菜又嘴硬。<code>扭曲丛林 偶读不懂的忧伤</code></p>]]></content>
       
