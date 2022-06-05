@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>初学Vue</title>
+      <link href="/2022/06/05/%E5%88%9D%E5%AD%A6Vue/"/>
+      <url>/2022/06/05/%E5%88%9D%E5%AD%A6Vue/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h4 id="一个很撒贝的错误"><a href="#一个很撒贝的错误" class="headerlink" title="一个很撒贝的错误"></a>一个很撒贝的错误</h4><p><code>date</code>!&#x3D;<code>data</code>这个错误让我查遍了所有网站，真二笔呀</p><h4 id="学习笔记"><a href="#学习笔记" class="headerlink" title="学习笔记"></a>学习笔记</h4><p>摘自尚硅谷的天禹老师</p><p>1.想让<code>Vue</code>工作，必须先创建一个Vue实例，而且要传入一个配置对象；</p><p>2.<code>root</code>容器里面的代码被称为<code>Vue模板</code>，且容器里的代码很符合<code>html</code>规范，只是有<code>Vue</code>些特殊语法；</p><p>3.<code>Vue实例</code>和<code>容器</code>是一一对应的；</p><p>4.真实开发中只有一个Vue实例，会配合着<code>组件</code>一起使用；</p><p>5.<code>&#123;&#123;XXX&#125;&#125;</code>中的XXX要写<code>js表达式</code>，且XXX可以自动读取到<code>data</code>中的所有属性；</p><p>6.一旦<code>data</code>中的数据改变，那么页面中用到该数据的地方也会随之改变；</p><p>注意区分<code>js表达式</code>和<code>js代码</code>：</p><p>​1.表达式：一个表达式会产生一个值，放在任何需要的地方</p><p>​(1).a</p><p>​(2).a+b</p><p>​(3).demo(1)</p><p>​(4).x&#x3D;&#x3D;&#x3D;y&gt; ‘a’ : ‘b’</p><p>​2.js代码(语句)</p><p>​(1).if(){}</p><p>​(2).for(){}</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>暑假工的面试</title>
       <link href="/2022/06/04/%E6%9A%91%E5%81%87%E5%B7%A5%E7%9A%84%E9%9D%A2%E8%AF%95/"/>
       <url>/2022/06/04/%E6%9A%91%E5%81%87%E5%B7%A5%E7%9A%84%E9%9D%A2%E8%AF%95/</url>
